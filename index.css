@@ -1,4 +1,29 @@
-h1{
-  font-family: Avenir, Roboto, Helvetica, sans-serif;
+h1 {
+  font-family: Creepster, sans-serif;
   font-weight: bold;
+}
+
+h2 {
+  font-family: Creepster, sans-serif;
+  font-weight: bold;
+  color: red;
+  float: bottom;
+}
+
+h3 {
+  font-family: Creepster, sans-serif;
+  font-weight: bold;
+  color: purple;
+  float: bottom;
+}
+
+body {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+#z,
+#space {
+  font-family: Creepster;
 }
